@@ -1,0 +1,9 @@
+body{margin:0;background:#FFF8F2;font-family:Poppins,sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh}
+.card{background:#fff;border-radius:28px;padding:24px;box-shadow:0 18px 40px rgba(0,0,0,.12);max-width:420px;width:92%;text-align:center}
+.logo{color:#C88A6A;font-weight:600}.reward{margin-top:8px;color:#777}
+h1{font-family:'Playfair Display',serif}.tag{color:#666}
+#scratchWrap{position:relative;height:260px;margin-top:20px;border-radius:18px;overflow:hidden;background:#faf7f5}
+#message{position:absolute;inset:0;padding:22px;display:flex;flex-direction:column;justify-content:center}
+#scratch{position:absolute;inset:0;width:100%;height:100%;touch-action:none;background:linear-gradient(135deg,#d9d9d9,#a8a8a8,#efefef)}
+button{background:#C88A6A;color:#fff;border:none;padding:14px 22px;border-radius:999px;font-size:16px;cursor:pointer}
+.hidden{display:none}.ps{font-style:italic;color:#666}
